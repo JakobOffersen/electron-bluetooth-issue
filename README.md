@@ -13,5 +13,5 @@ I've made this tiny project to illustrate that a [Web Bluetooth API](https://dev
 3) Electron crashes. 
 
 ## Details
-- On MacOS Big Sur (11.0.1): `beta`, `v11`, `v10` and `v9` all crashes. 
-- MacOS Mojave (10.14.6): `v9` and `v10` works as expected, but `v11` crashes. 
+- On MacOS Big Sur (11.0.1): Electron `beta`, `v11`, `v10` and `v9` all lead to crashes. 
+- MacOS Mojave (10.14.6): Electron `v9` and `v10` works as expected, but `v11` lead to crash. 
